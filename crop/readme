@@ -1,0 +1,23 @@
+# Add your Python dependencies here, one per line.
+# Example:
+# numpy==2.2.4
+# pandas==2.2.3
+# tensorflow==2.19.0
+# matplotlib==3.10.1
+# sklearn
+# seaborn==0.13.2
+# flask==3.1.0
+
+d.h5 = 📊 Test Accuracy: 85.28% 
+
+Algorithm: Transfer Learning with MobileNetV2 for Image Classification
+
+Purpose:
+To classify images into multiple categories using a Convolutional Neural Network (CNN) based on the pre-trained MobileNetV2 architecture.
+
+Tools Used:
+- TensorFlow
+- Keras
+- MobileNetV2
+- ImageDataGenerator
+

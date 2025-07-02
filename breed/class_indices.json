@@ -1,0 +1,9 @@
+{
+    "Birds": 0,
+    "Cats": 1,
+    "Dogs": 2,
+    "Fish": 3,
+    "Reptiles": 4,
+    "Rodents": 5,
+    "snake": 6
+}
